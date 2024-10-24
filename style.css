@@ -7,3 +7,12 @@ body {
 .title {
   font-size: 7vw;
 }
+a:link {
+  color: brown;
+}
+a:hover {
+  color: red;
+}
+a:visited {
+  color: black;
+}
